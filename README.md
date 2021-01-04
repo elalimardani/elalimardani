@@ -2,7 +2,7 @@
 I am El and I am an aspiring developer
 
 🌱 I’m currently learning C and Node.js
- <br>:octocat: 
+
  <div class="block">
  Check out my recent JavaScript practice projects <a href="https://github.com/elbytes/JS-practice-projects">here</a>
 </div>
