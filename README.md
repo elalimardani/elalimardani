@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am El and I am an aspiring developer
  🌱 I’m currently learning C and Node.js
- <a href="www.google.com">this</a>
+ < /br>
+ <a href="https://github.com/elbytes/JS-practice-projects">here are my recent practice projects in JavaScript</a>
 <!--
 **elalimardani/elalimardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
