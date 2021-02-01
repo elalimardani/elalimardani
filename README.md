@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am El and I am an aspiring developer
 
-🌱 I’m currently learning Node.js and Express
+🌱 I’m currently learning React
 
  <div class="block">
  Check out my recent JavaScript practice projects <a href="https://github.com/elbytes/JS-practice-projects">here</a>
