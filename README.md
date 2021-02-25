@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am El and I am an aspiring developer
 
-🌱 I’m currently learning React
+🌱 I’m currently learning React & Redux
 
 
  
