@@ -3,7 +3,7 @@ I am El and I am an aspiring developer
 
 🌱 I’m currently learning Redux
 
-
+:desktop_computer: I'm working on  <a target="_blank" href="https://github.com/elbytes/PlayGround">PlayGround</a>
  
 <!--
 **elalimardani/elalimardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
