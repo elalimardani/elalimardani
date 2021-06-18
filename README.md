@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am El and I am an aspiring developer
 
-🌱 I’m currently learning React testing with Jest and Enzyme
+🌱 I’m currently learning React testing
 
 :desktop_computer: I'm working on  <a target="_blank" href="https://github.com/elbytes/PlayGround">PlayGround</a>
  
