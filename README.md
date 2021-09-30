@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am El and I am an aspiring developer
 
-- 🌱 I’m currently learning React testing
+
 
 :desktop_computer: I'm working on  <a target="_blank" href="https://github.com/elbytes/PlayGround">PlayGround</a>
  
@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning React testing
 -->
