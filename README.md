@@ -1,9 +1,5 @@
 ### Hi there 👋
-I am El and I am an aspiring developer
 
-
-
-:desktop_computer: I'm working on  <a target="_blank" href="https://github.com/elbytes/PlayGround">PlayGround</a> demo:   <a target="_blank" href="http://playgroundonline.netlify.app/">PlayGroundOnline</a>
  
 <!--
 **elalimardani/elalimardani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
